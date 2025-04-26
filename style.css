@@ -1,0 +1,22 @@
+*{
+    margin: 5px;
+    box-sizing: border-box;
+}
+
+body{
+    height: 90vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: -webkit-linear-gradient(left, #3300FF, #33FFFF);
+    color: var(--fontColor);
+    text-align: center;
+    color: white;
+    flex-direction: column;
+}
+
+div{
+    height: 10vh;
+    display: flex;
+    justify-content: center;
+}
